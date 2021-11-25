@@ -1,6 +1,9 @@
 // 1. Define a variable named `students` and assign a blank object to it.
+let students ={};
+
 
 // 2. Add a key of the value of variable `studentName` in the object created above with the value of your name.
+
 
 // 3. Using `console.log` log the value of `studentName` key from the `students` object
 
