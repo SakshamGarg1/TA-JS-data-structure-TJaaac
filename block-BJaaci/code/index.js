@@ -53,6 +53,7 @@ Use the variable named movies to solve the requirement below.
 
 // 11. Log the name of the second actor (index 1) of the third movie
 
+
 // 12. Log all the genres of the third movie
 
 // 13. Log all the genres of the first movie
