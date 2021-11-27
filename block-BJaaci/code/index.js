@@ -88,9 +88,12 @@ console.log(movies[2].geners);
 // 17. Log the first genres of the second movie (using the length property of array)
 
 // 18. Log all the genres of the first movie one by one
+for(let genre of movies[0].geners){
+console.log(genre);}
 
 // 19. Log all the genres of the second movie one by one
-
+for(let genre of movies[1].geners){
+console.log(genre);}
 // 20. Log if the first actor of the first movie is `Rachel McAdams` or not (You have to log true or false)
 
 // 21. Log if the second actor (index 1) of the second movie is `Natalie Portman` or not (You have to log true or false)
@@ -112,3 +115,7 @@ console.log(movies[2].geners);
 // 29. Log the name of all the movies with exactly 3 actors
 
 // 30. Log the name of all the movies with year `2018`
+
+
+
+
