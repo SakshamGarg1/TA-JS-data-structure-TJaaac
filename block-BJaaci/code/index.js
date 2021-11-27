@@ -40,6 +40,7 @@ Use the variable named movies to solve the requirement below.
 
 // 5. Log all the named of actors (key named actors) of the first movie
 
+
 // 6. Log the name of the first actor of the first movie
 
 // 7. Log the name of the last actor of the first movie
