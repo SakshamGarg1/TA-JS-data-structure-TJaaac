@@ -18,6 +18,7 @@ console.log(person === person2); // output
 console.log(person.lastName === person2.lastName); // output
 ```
 
+
 2. Write the output with reason:
 
 ```js
