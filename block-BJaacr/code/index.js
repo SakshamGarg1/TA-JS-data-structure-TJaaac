@@ -9,6 +9,7 @@ console.log(got);
 
 // You have access to a variable named `got`. Which comes from `data.js` file
 
+
 /*
 Hint: (Structure of got variable)
   - got variable is an Object which has one key: `houses`
